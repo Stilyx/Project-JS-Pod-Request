@@ -18,6 +18,7 @@ function validEmail() {
     p.classList.add('error-message');
     p.classList.remove('success-message');
     p.innerText = 'Oops! Please check your email';
+    button.childNodes[1].value = '';
   } else {
     p.classList.add('success-message');
     p.classList.remove('error-message');
