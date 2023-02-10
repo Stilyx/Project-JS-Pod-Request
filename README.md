@@ -1,26 +1,27 @@
-<h1 align="center">Pod Request Mentor Dev Challenge</h1>
+
+- Desktop
+
+![Pod-Request-project](https://user-images.githubusercontent.com/109632184/217971737-96d4153b-56d6-4ce2-b635-f0838d6caa30.png)
 
 
-- <h3>How it works.</h3>
+- Mobile 
 
-https://user-images.githubusercontent.com/109632184/196876989-4b8e6ebe-575d-4939-823d-9a2467fd3f82.mp4
-
-- <h3>Responsive.</h3>
+![Pod-Request-mobile](https://user-images.githubusercontent.com/109632184/217971863-ad25dbee-dd6a-4fc0-bdfa-ed61f9f4d230.png)
 
 
-https://user-images.githubusercontent.com/109632184/196877632-cbdf8dad-c175-430f-8b2a-b72f901af6ac.mp4
+<h1 align="center">Pod Request Project</h1>
+
+<h2>Inspiração do Desafio</h2>
+
+- <a href="https://www.frontendmentor.io/challenges/pod-request-access-landing-page-eyTmdkLSG" target="_blank">Mentor Challenge</a>
+
+<h2>Técnologias Utilizadas</h2>
+
+- HTML
+- CSS
+- Javascript
 
 
-- <h3>Picture Desktop.</h3>
-
-<div>
-
-![image-desktop](https://user-images.githubusercontent.com/109632184/196877943-00dbfe4e-1e23-4806-82cc-9582b0238900.png)
-
-</div>
-
-- <h3>Picture Mobile.</h3>
 
 
-![mobile-image](https://user-images.githubusercontent.com/109632184/196878196-a7409f01-4261-48a2-9153-67a7a55963ba.png)
 
